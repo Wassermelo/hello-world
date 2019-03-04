@@ -1,2 +1,4 @@
 # hello-world
-1st Step of Github Guide
+Step 1 of GitHub Guide
+
+Figuring out how GitHub works
